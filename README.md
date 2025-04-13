@@ -14,7 +14,8 @@ El dataset seleccionado es el reporte de crímenes del Departamento de Policía 
 ## Referencias
 
 * [Fuente de dataset principal](https://data.cityofchicago.org/Public-Safety/Crimes-2024/dqcy-ctma/about_data)
-
+* [Polígonos de distritos](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r)
+* [Polígonos de beats](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74)
 
 ## Integración con `uv`
 
